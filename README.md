@@ -2,7 +2,7 @@
 
 Automated text2sql system for generating and executing SQL queries on SQLite databases.
 
-![Uploading image.png…]()
+![image](<img width="1058" height="599" alt="image" src="https://github.com/user-attachments/assets/b6f5f98b-399b-4ae7-b72e-cff140133428" />)
 
 Features:
 * LLM-based schema linking
