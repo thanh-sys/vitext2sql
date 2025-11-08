@@ -1,6 +1,7 @@
 ## Overview
 
 Automated text2sql system for generating and executing SQL queries on SQLite databases.
+![Uploading image.png…]()
 
 Features:
 * LLM-based schema linking
